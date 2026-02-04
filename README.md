@@ -1,10 +1,11 @@
 # 파이썬 수업준비
 
 ## [MacOS]
-1-1. homebrew설치
-1-2. x-code설치되었는지 확인
-1-3. 깃 설치
->brew install git
+ 1-1. homebrew설치
+ 1-2. x-code설치되었는지 확인
+ 1-3. 깃 설치
+> brew install git
+
 1-4. penv설치
 brew update
 brew install pyenv
