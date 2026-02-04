@@ -1,6 +1,4 @@
-# python_jungsuk
-
-#파이썬 수업준비
+# 파이썬 수업준비
 
 ## [MacOS]
 1-1. homebrew설치
