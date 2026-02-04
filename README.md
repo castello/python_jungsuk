@@ -2,7 +2,7 @@
 
 #파이썬 수업준비
 
-[MacOS]
+## [MacOS]
 1-1. homebrew설치
 1-2. x-code설치되었는지 확인
 1-3. 깃 설치
@@ -24,7 +24,7 @@ exec "$SHELL"
 > python --version
 
 
-[윈도우즈]
+## [윈도우즈]
 1-1 깃 설치
 1-2 pyenv설치 - 여러 버전의 파이썬 사용가능
 
